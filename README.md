@@ -18,3 +18,6 @@
 
 <p><img align="center" src="https://www.codewars.com/users/AlinaVeremii/badges/large" alt="codeWars" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaveremii&" alt="GitHubStreak" /></p>
+
