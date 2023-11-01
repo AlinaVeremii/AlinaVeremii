@@ -16,6 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinaveremii&show_icons=true&locale=en" alt="GithubStats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaveremii&" alt="githubStreak" /></p>
 <p><img align="center" src="https://www.codewars.com/users/AlinaVeremii/badges/large" alt="codeWars" /></p>
 
