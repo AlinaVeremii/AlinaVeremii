@@ -14,3 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinaveremii&show_icons=true&locale=en&layout=compact" alt="alinaveremii" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinaveremii&show_icons=true&locale=en" alt="alinaveremii" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaveremii&" alt="alinaveremii" /></p>
+<p><img align="center" src="https://www.codewars.com/users/AlinaVeremii/badges/small" alt="alinaveremii" /></p>
